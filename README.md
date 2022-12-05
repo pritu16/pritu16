@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pritu16
-- 👀 I’m interested in competitive coding..
-- 🌱 I’m currently learning C++...
-- 💞️ I’m looking to collaborate on $$...
+- 👀 I’m interested in Data Science..
+- 🌱 I’m currently learning PySpark..
 - 📫 How to reach me >pritamrdx98@gmail.com ...
 
 <!---
